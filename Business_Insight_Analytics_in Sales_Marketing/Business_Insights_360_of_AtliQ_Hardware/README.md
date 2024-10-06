@@ -3,7 +3,7 @@
 
 AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain.
 
-I, Manisha Deepshikha Patra, took the lead on this initiative, drawing from my training in the Codebasics PowerBi Course, and harnessed an array of tools and techniques:
+I, Divya Darshan, took the lead on this initiative, drawing from my training in the Codebasics PowerBi Course, and harnessed an array of tools and techniques:
 
 *Technology Stack:*
 - SQL
